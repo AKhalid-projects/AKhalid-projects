@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdelrahman Khaled. Software Engineering Student @ University of Bahrain
-- GDG organiser | GDSC Mentor [ Former lead @ GDSC - University of Bahrain ]
+- 👉 GDG organiser | GDSC Mentor [ Former lead @ GDSC - University of Bahrain ]
 - ❤️ Passionate about the Cloud  
 - 🌱 I’m currently learning to become a DevOps Engineer - Cloud Architect
 - 💞️ I’m looking to collaborate on voluntarly helping local businesses , organising community sessions or any interesting projects.
