@@ -13,7 +13,7 @@
 - 10 Projects focused on Front-end
 - 10 Projects focused on Back-end
 - 10 Cloud Computing Projects on AWS, GCP and Azure
-- Learning and Exploring [ Linux | Python - Django | Go | Java - Spring Boot | Javascript - React - Next ] by building projects
+- Learning and Exploring [ Linux | Python - Django | Go | Java - Spring Boot | JavaScript - TypeScript - React - Next | Rust] by building projects
 - Read 10 Books recommended by Seniors
 
 My bookshelf:
