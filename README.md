@@ -15,7 +15,7 @@
 - 10 Cloud Computing Projects on AWS, GCP and Azure
 - Learning and Exploring [ Linux | Python - Django | Go | Java - Spring Boot | JavaScript - TypeScript - React - Next | Rust ] by building projects
 - Read 10 Books recommended by Seniors
-- Host at least 50 tech-related educational sessions in my local communinities
+- Host 50 tech-related educational sessions in my local communinities
 
 My bookshelf:
 - [Introducing Python: Modern Computing in Simple Packages](https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/)
