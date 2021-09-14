@@ -22,6 +22,7 @@ My bookshelf:
 - [Cracking the Coding Interview 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?crid=16AYP5VGQUMIV&dchild=1&keywords=cracking+the+coding+interview&qid=1631049475&sprefix=cracking+the%2Caps%2C423&sr=8-1)
 - [Good Code, Bad Code: Think Like a Software Engineer](https://www.manning.com/books/good-code-bad-code?query=Good%20Code,%20Bad%20Code)
 - [Grokking Algorithms](https://learning.oreilly.com/library/view/grokking-algorithms/9781617292231/)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 Future books to read based on interest [always up to change]:
 - [Designing Data-Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
@@ -35,7 +36,6 @@ Future books to read based on interest [always up to change]:
 - [Fluent Python](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 - [Learning Go](https://learning.oreilly.com/library/view/learning-go/9781492077206/)
 - [Kubernetes in Action](https://learning.oreilly.com/library/view/kubernetes-in-action/9781617293726/)
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - [97 Things Every Cloud Engineer Should Know](https://learning.oreilly.com/library/view/97-things-every/9781492076728/)
 - [Building Intelligent Cloud Applications](https://learning.oreilly.com/library/view/building-intelligent-cloud/9781492052319/)
 - [Refactoring: Improving the Design of Existing Code](https://learning.oreilly.com/library/view/refactoring-improving-the/9780134757681/)
