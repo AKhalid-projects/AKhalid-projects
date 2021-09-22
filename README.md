@@ -15,7 +15,7 @@
 - [ ] Associate Cloud Engineer
 - [ ] Professional Cloud Architect
 ## 2 x Azure Certified
-- [x] **Azure Administrator Assosiate AZ-104
+- [x] **Azure Administrator Assosiate AZ-104**
 - [ ] Designing and Implementing Microsoft DevOps Solutions AZ-400
 ## Other Certifications or Courses
 - [ ] Google Data Analytics Professional Certificate - 4/8 Done!
