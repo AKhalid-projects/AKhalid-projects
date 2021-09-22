@@ -24,6 +24,8 @@
 ## 10 Projects focused on Back-end
 ## 10 Cloud Computing Projects on AWS, GCP and Azure
 ## Learning and Exploring [ Linux | Python - Django | Go | Java - Spring Boot | JavaScript - TypeScript - React - Next | Rust ] by building projects
+- [x] Bulk File Creation with Sequence Numbering | Python Script
+- [x] Word Cloud Project | Python Script 
 ## Read 10 Books recommended by Seniors
 ## Host ~~50~~ 100 tech-related educational sessions in my local communinities
 - [x] 24 Python Sessions as a part of a Python Bootcamp - ongoing
