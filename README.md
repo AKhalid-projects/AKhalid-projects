@@ -24,16 +24,16 @@
 ## 10 Projects focused on Back-end
 ## 10 Cloud Computing Projects on AWS, GCP and Azure
 ## Learning and Exploring [ Linux | Python - Django | Go | Java - Spring Boot | JavaScript - TypeScript - React - Next | Rust ] by building projects
-- [x] **Bulk File Creation with Sequence Numbering | Python Script
-- [x] **Word Cloud Project | Python Script 
+- [x] **Bulk File Creation with Sequence Numbering | Python Script**
+- [x] **Word Cloud Project | Python Script**
 ## Read 10 Books recommended by Seniors
 ## Host ~~50~~ 100 tech-related educational sessions in my local communinities
-- [x] **24 Python Sessions as a part of a Python Bootcamp - ongoing
-- [x] **10 Cloud Computing Sessions - ongoing
-- [x] **13 varying sessions in IT-related topics 
-- [x] **10 Sessions related to Code Quality
+- [x] **24 Python Sessions as a part of a Python Bootcamp - ongoing**
+- [x] **10 Cloud Computing Sessions - ongoing**
+- [x] **13 varying sessions in IT-related topics** 
+- [x] **10 Sessions related to Code Quality**
 ## Get an Internship | Entry-level Position
-- [x] **Unipal - Software Development Engineer Intern - ongoing
+- [x] **Unipal - Software Development Engineer Intern - ongoing**
 # My bookshelf:
 - [Introducing Python: Modern Computing in Simple Packages](https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/)
 - [Cracking the Coding Interview 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?crid=16AYP5VGQUMIV&dchild=1&keywords=cracking+the+coding+interview&qid=1631049475&sprefix=cracking+the%2Caps%2C423&sr=8-1)
