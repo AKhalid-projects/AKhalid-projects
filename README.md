@@ -18,6 +18,8 @@
 - [x] Azure Administrator Assosiate AZ-104
 - [ ] Designing and Implementing Microsoft DevOps Solutions AZ-400
 ## Other Certifications or Courses
+- [ ] Google Data Analytics Professional Certificate - 4/8 Done!
+- [ ] Google IT Automation with Python - 1/6 Done!
 ## 10 Projects focused on Front-end
 ## 10 Projects focused on Back-end
 ## 10 Cloud Computing Projects on AWS, GCP and Azure
