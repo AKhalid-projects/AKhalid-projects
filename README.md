@@ -17,6 +17,7 @@
 ## 2 x Azure Certified
 - [x] Azure Administrator Assosiate AZ-104
 - [ ] Designing and Implementing Microsoft DevOps Solutions AZ-400
+## Other Certifications or Courses
 ## 10 Projects focused on Front-end
 ## 10 Projects focused on Back-end
 ## 10 Cloud Computing Projects on AWS, GCP and Azure
