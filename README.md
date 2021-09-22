@@ -11,18 +11,18 @@
 ## 2 x AWS Certified
 - [ ] AWS Solutions Architect Assosiate SAA-C02
 - [ ] AWS Developer Assosiate DVA-C01
-- 2 x GCP Certified
+## 2 x GCP Certified
 - [ ] Associate Cloud Engineer
 - [ ] Professional Cloud Architect
-- 2 x Azure Certified
+## 2 x Azure Certified
 - [x] Azure Administrator Assosiate AZ-104
 - [ ] Designing and Implementing Microsoft DevOps Solutions AZ-400
-- 10 Projects focused on Front-end
-- 10 Projects focused on Back-end
-- 10 Cloud Computing Projects on AWS, GCP and Azure
-- Learning and Exploring [ Linux | Python - Django | Go | Java - Spring Boot | JavaScript - TypeScript - React - Next | Rust ] by building projects
-- Read 10 Books recommended by Seniors
-- Host 50 tech-related educational sessions in my local communinities
+## 10 Projects focused on Front-end
+## 10 Projects focused on Back-end
+## 10 Cloud Computing Projects on AWS, GCP and Azure
+## Learning and Exploring [ Linux | Python - Django | Go | Java - Spring Boot | JavaScript - TypeScript - React - Next | Rust ] by building projects
+## Read 10 Books recommended by Seniors
+## Host 50 tech-related educational sessions in my local communinities
 
 My bookshelf:
 - [Introducing Python: Modern Computing in Simple Packages](https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/)
