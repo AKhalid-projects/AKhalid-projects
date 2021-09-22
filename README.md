@@ -1,8 +1,8 @@
 # About Me
-- 👋 Hi, I’m Abdelrahman Khaled. Software Engineering Student @ University of Bahrain
-- 👉 GDG Manama organiser |  [ [GDSC Mentor](https://developers.google.com/community/gdsc) ] [[ Founder and Former lead @ GDSC - University of Bahrain ](https://gdsc.community.dev/university-of-bahrain/)]
+- 👋 Hi, I’m **Abdelrahman Khaled**. Software Engineering Student @ University of Bahrain
+- 👉 GDG organiser @ GDG Manama |  [ [GDSC Mentor](https://developers.google.com/community/gdsc) ] [[ Founder and Former lead @ GDSC - University of Bahrain ](https://gdsc.community.dev/university-of-bahrain/)]
 - ❤️ Passionate about the Cloud  
-- 🌱 I’m currently learning to become a DevOps Engineer - Cloud Architect
+- 🌱 I’m currently learning to become a **DevOps Engineer - Cloud Architect**
 - 💞️ I’m looking to collaborate on voluntarly helping local businesses , organising community sessions or any interesting projects.
 - 👀 Currently looking for internship - entery-level jobs opportunities as a software engineer or as a cloud engineer.
 - 📫 How to reach me ? [LinkedIn](https://www.linkedin.com/in/abdelrahman-khalid/)
@@ -15,7 +15,7 @@
 - [ ] Associate Cloud Engineer
 - [ ] Professional Cloud Architect
 ## 2 x Azure Certified
-- [x] Azure Administrator Assosiate AZ-104
+- [x] **Azure Administrator Assosiate AZ-104
 - [ ] Designing and Implementing Microsoft DevOps Solutions AZ-400
 ## Other Certifications or Courses
 - [ ] Google Data Analytics Professional Certificate - 4/8 Done!
@@ -24,16 +24,16 @@
 ## 10 Projects focused on Back-end
 ## 10 Cloud Computing Projects on AWS, GCP and Azure
 ## Learning and Exploring [ Linux | Python - Django | Go | Java - Spring Boot | JavaScript - TypeScript - React - Next | Rust ] by building projects
-- [x] Bulk File Creation with Sequence Numbering | Python Script
-- [x] Word Cloud Project | Python Script 
+- [x] **Bulk File Creation with Sequence Numbering | Python Script
+- [x] **Word Cloud Project | Python Script 
 ## Read 10 Books recommended by Seniors
 ## Host ~~50~~ 100 tech-related educational sessions in my local communinities
-- [x] 24 Python Sessions as a part of a Python Bootcamp - ongoing
-- [x] 10 Cloud Computing Sessions - ongoing
-- [x] 13 varying sessions in IT-related topics 
-- [x] 10 Sessions related to Code Quality
+- [x] **24 Python Sessions as a part of a Python Bootcamp - ongoing
+- [x] **10 Cloud Computing Sessions - ongoing
+- [x] **13 varying sessions in IT-related topics 
+- [x] **10 Sessions related to Code Quality
 ## Get an Internship | Entry-level Position
-- [x] Unipal - Software Development Engineer Intern - ongoing
+- [x] **Unipal - Software Development Engineer Intern - ongoing
 # My bookshelf:
 - [Introducing Python: Modern Computing in Simple Packages](https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/)
 - [Cracking the Coding Interview 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?crid=16AYP5VGQUMIV&dchild=1&keywords=cracking+the+coding+interview&qid=1631049475&sprefix=cracking+the%2Caps%2C423&sr=8-1)
