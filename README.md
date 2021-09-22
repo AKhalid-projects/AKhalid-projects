@@ -30,7 +30,7 @@
 - [x] 10 Cloud Computing Sessions - ongoing
 - [x] 13 varying sessions in IT-related topics 
 - [x] 10 Sessions related to Code Quality
-## Get an Internship
+## Get an Internship | Entry-level Position
 - [x] Unipal - Software Development Engineer Intern - ongoing
 # My bookshelf:
 - [Introducing Python: Modern Computing in Simple Packages](https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/)
