@@ -11,7 +11,11 @@
 - [ ] AWS Solutions Architect Assosiate SAA-C02
 - [ ] AWS Developer Assosiate DVA-C01
 - 2 x GCP Certified
+- [ ] Associate Cloud Engineer
+- [ ] Professional Cloud Architect
 - 2 x Azure Certified
+- [x] Azure Administrator Assosiate AZ-104
+- [ ] Designing and Implementing Microsoft DevOps Solutions AZ-400
 - 10 Projects focused on Front-end
 - 10 Projects focused on Back-end
 - 10 Cloud Computing Projects on AWS, GCP and Azure
