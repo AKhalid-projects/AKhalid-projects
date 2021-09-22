@@ -9,6 +9,7 @@
 2022 Resolution Goals [ Moonshot Mindset 🔥 ]:
 - 2 x AWS Certified
 - [ ] AWS Solutions Architect Assosiate SAA-C02
+- [ ] AWS Developer Assosiate DVA-C01
 - 2 x GCP Certified
 - 2 x Azure Certified
 - 10 Projects focused on Front-end
