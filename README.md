@@ -8,7 +8,7 @@
 - 📫 How to reach me ? [LinkedIn](https://www.linkedin.com/in/abdelrahman-khalid/)
 
 # 2022 Resolution Goals [ Moonshot Mindset 🔥 ]:
-- 2 x AWS Certified
+## 2 x AWS Certified
 - [ ] AWS Solutions Architect Assosiate SAA-C02
 - [ ] AWS Developer Assosiate DVA-C01
 - 2 x GCP Certified
