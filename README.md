@@ -30,7 +30,7 @@
 ## Host ~~50~~ 100 tech-related educational sessions in my local communinities
 - [x] **24 Python Sessions as a part of a Python Bootcamp - ongoing**
 - [x] **10 Cloud Computing Sessions - ongoing**
-- [x] **13 varying sessions in IT-related topics** 
+- [x] **23 varying sessions in IT-related topics** 
 - [x] **10 Sessions related to Code Quality**
 ## Get an Internship --> Entry-level Position
 - [x] **Unipal - Software Development Engineer Intern - ongoing**
