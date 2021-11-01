@@ -3,7 +3,7 @@
 - 👉 GDG organiser @ GDG Manama |  [ [GDSC Mentor](https://developers.google.com/community/gdsc) ] [[ Founder and Former lead @ GDSC - University of Bahrain ](https://gdsc.community.dev/university-of-bahrain/)]
 - ❤️ Passionate about the Cloud  
 - 🌱 I’m currently learning to become a **DevOps Engineer - Cloud Architect**
-- 💞️ I’m looking to collaborate on voluntarly helping local businesses , organising community sessions or any interesting projects.
+- 💞️ I’m looking to collaborate on voluntarly projects helping local businesses , organising community sessions or any interesting projects.
 - 👀 Currently looking for internship - entery-level jobs opportunities as a software engineer or as a cloud engineer.
 - 📫 How to reach me ? [LinkedIn](https://www.linkedin.com/in/abdelrahman-khalid/)
 
