@@ -32,7 +32,7 @@
 - [x] **+20 Cloud Computing Sessions - ongoing**
 - [x] **+46 varying sessions in IT-related topics** 
 - [x] **+15 Sessions related to Code Quality**
-## Get an Internship --> Entry-level Position
+## Get an Internship --> Entry-level Position --> Get closer to a cloud-based role
 - [x] **Unipal - Software Development Engineer Intern - Done**
 - [ ] **Mannai Tech - Frontend Developer - Ongoing**
 # My bookshelf:
