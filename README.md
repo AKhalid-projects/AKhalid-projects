@@ -4,7 +4,7 @@
 - ❤️ Passionate about the Cloud  
 - 🌱 I’m currently learning to become a **DevOps Engineer - Cloud Architect**
 - 💞️ I’m looking to collaborate on voluntarly projects helping local businesses , organising community sessions or any interesting projects.
-- 👀 Currently looking for internship - entery-level jobs opportunities as a software engineer or as a cloud engineer.
+- 👀 Currently looking for entery-level jobs opportunities as a software engineer or as a cloud engineer.
 - 📫 How to reach me ? [LinkedIn](https://www.linkedin.com/in/abdelrahman-khalid/)
 
 # 2022 Resolution Goals [ Moonshot Mindset 🔥 ]:
