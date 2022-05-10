@@ -1,5 +1,5 @@
 # About Me
-- 👋 Hi, I’m **Abdelrahman Khaled**. Software Engineering Graduate @ University of Bahrain
+- 👋 Hi, I’m **Abdelrahman Khaled**. Software Engineer based in Kingdom of Bahrain
 - 👉 [ [Google Cloud Champion Innovator](https://cloud.google.com/innovators/innovator?profileId=101984123694662256986) ] | [ [GDG Organiser @ GDG Manama](https://gdg.community.dev/gdg-manama/) ]   |  [ [GDSC Mentor](https://developers.google.com/community/gdsc) ] | [[ Founder and Former lead @ GDSC - University of Bahrain ](https://gdsc.community.dev/university-of-bahrain/)]
 - ❤️ Passionate about the Cloud  
 - 🌱 I’m currently learning to become a **DevOps Engineer - Cloud Architect**
