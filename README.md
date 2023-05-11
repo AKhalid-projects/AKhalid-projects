@@ -27,11 +27,11 @@
 - [x] **Bulk File Creation with Sequence Numbering | Python Script**
 - [x] **Word Cloud Project | Python Script**
 ## Read 10 Books recommended by Seniors
-## Host ~~50~~ ~~100~~ 150 tech-related educational sessions in my local communinities
-- [x] **+24 Python Sessions as a part of a Python Bootcamp - ongoing**
-- [x] **+20 Cloud Computing Sessions - ongoing**
-- [x] **+46 varying sessions in IT-related topics** 
-- [x] **+15 Sessions related to Code Quality**
+## Host ~~50~~ ~~100~~ ~~150~~ ~~250~~ +350 tech-related educational sessions in my local communinities
+- [x] **+30 Python Sessions as a part of a Python Bootcamp**
+- [x] **+250 Cloud Computing Sessions - ongoing**
+- [x] **+50 varying sessions in IT-related topics** 
+- [x] **+25 Sessions related to Code Quality**
 ## Get an Internship --> Entry-level Position --> Get closer to a cloud-based role
 - [x] **Unipal - Software Development Engineer Intern - Done**
 - [x] **Mannai Tech - Frontend Developer - Done**
