@@ -27,7 +27,7 @@
 - [x] **Bulk File Creation with Sequence Numbering | Python Script**
 - [x] **Word Cloud Project | Python Script**
 ## Read 10 Books recommended by Seniors
-## Host ~~50~~ ~~100~~ ~~150~~ ~~250~~ +350 tech-related educational sessions in my local communinities
+## Host ~~50~~ ~~100~~ ~~150~~ ~~250~~ +350 tech-related educational sessions in my local communinities and institutions
 - [x] **+30 Python Sessions as a part of a Python Bootcamp**
 - [x] **+250 Cloud Computing Sessions - ongoing**
 - [x] **+50 varying sessions in IT-related topics** 
