@@ -9,8 +9,8 @@
 
 # 2023 Resolution Goals [ Moonshot Mindset 🔥 ]:
 ## 2 x AWS Certified
-- [ ] AWS Solutions Architect Assosiate SAA-C02
-- [ ] AWS Developer Assosiate DVA-C01
+- [ ] AWS Solutions Architect Assosiate
+- [ ] AWS Cloud Practitioner 
 ## 2 x GCP Certified
 - [ ] Associate Cloud Engineer
 - [ ] Professional Cloud Architect
@@ -27,9 +27,9 @@
 - [x] **Bulk File Creation with Sequence Numbering | Python Script**
 - [x] **Word Cloud Project | Python Script**
 ## Read 10 Books recommended by Seniors
-## Host ~~50~~ ~~100~~ ~~150~~ ~~250~~ +350 tech-related educational sessions in my local communinities and institutions
+## Host ~~50~~ ~~100~~ ~~150~~ ~~250~~ +550 tech-related educational sessions in my local communities and institutions
 - [x] **+30 Python Sessions as a part of a Python Bootcamp**
-- [x] **+250 Cloud Computing Sessions - ongoing**
+- [x] **+350 Cloud Computing Sessions - ongoing**
 - [x] **+50 varying sessions in IT-related topics** 
 - [x] **+25 Sessions related to Code Quality**
 ## Get an Internship --> Entry-level Position --> Get closer to a cloud-based role
