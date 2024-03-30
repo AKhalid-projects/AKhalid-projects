@@ -7,19 +7,18 @@
 - 👀 Currently looking for entery-level jobs opportunities as a software engineer or as a cloud engineer.
 - 📫 How to reach me ? [LinkedIn](https://www.linkedin.com/in/abdelrahman-khalid/)
 
-# 2023 Resolution Goals [ Moonshot Mindset 🔥 ]:
-## 2 x AWS Certified
-- [ ] AWS Solutions Architect Assosiate
-- [ ] AWS Cloud Practitioner 
-## 2 x GCP Certified
-- [ ] Associate Cloud Engineer
-- [ ] Professional Cloud Architect
-## 2 x Azure Certified
+# 2024 Resolution Goals [ Moonshot Mindset 🔥 ]:
+## AWS Certified
+- [x] AWS Solutions Architect Assosiate
+- [ ] AWS DevOps Engineer Professional - in progress
+## GCP Certified
+- [ ] Professional Cloud Architect - in progress
+## Azure Certified
 - [x] **Azure Administrator Assosiate AZ-104**
-- [ ] Designing and Implementing Microsoft DevOps Solutions AZ-400
+- [ ] Designing and Implementing Microsoft DevOps Solutions AZ-400 - in progress
 ## Other Certifications or Courses
 - [x] **Google Data Analytics Professional Certificate** 
-- [ ] Google IT Automation with Python - 1/6 Done!
+- [x] **GitHub Foundations**
 ## 10 Projects focused on Front-end
 ## 10 Projects focused on Back-end
 ## 10 Cloud Computing Projects on AWS, GCP and Azure
@@ -35,7 +34,7 @@
 ## Get an Internship --> Entry-level Position --> Get closer to a cloud-based role
 - [x] **Unipal - Software Development Engineer Intern - Done**
 - [x] **Mannai Tech - Frontend Developer - Done**
-- [ ] **NVTC - Cloud Computing Educator - Ongoing**
+- [x] **NVTC - Cloud Computing Educator - Ongoing**
 # My bookshelf:
 - [Introducing Python: Modern Computing in Simple Packages](https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/)
 - [Cracking the Coding Interview 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?crid=16AYP5VGQUMIV&dchild=1&keywords=cracking+the+coding+interview&qid=1631049475&sprefix=cracking+the%2Caps%2C423&sr=8-1)
