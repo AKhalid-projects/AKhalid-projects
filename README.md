@@ -4,7 +4,7 @@
 - ❤️ Passionate about the Cloud  
 - 🌱 I’m currently persuing a **DevOps Engineer - Cloud Architect** role
 - 💞️ I’m looking to collaborate on voluntarly projects helping local businesses , organising community sessions or any interesting projects.
-- 👀 Currently looking for entery-level jobs opportunities as a software engineer or as a cloud engineer.
+- 👀 Currently looking for  opportunities as a software engineer or as a cloud engineer.
 - 📫 How to reach me ? [LinkedIn](https://www.linkedin.com/in/abdelrahman-khalid/)
 
 # 2024 Resolution Goals [ Moonshot Mindset 🔥 ]:
