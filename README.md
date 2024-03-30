@@ -33,7 +33,7 @@
 - [x] **+25 Sessions related to Code Quality**
 ## Get an Internship --> Entry-level Position --> Get closer to a cloud-based role
 - [x] **Unipal - Software Development Engineer Intern - Done**
-- [x] **Mannai Tech - Frontend Developer - Done**
+- [x] **Mannai Tech - Software Engineer - Done**
 - [x] **NVTC - Cloud Computing Educator - Ongoing**
 # My bookshelf:
 - [Introducing Python: Modern Computing in Simple Packages](https://learning.oreilly.com/library/view/introducing-python-2nd/9781492051374/)
